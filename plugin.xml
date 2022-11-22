@@ -50,7 +50,7 @@
         <source-file src="src/android/de/cyberkatze/iroot/IRoot.java" target-dir="src/de/cyberkatze/iroot"/>
         <source-file src="src/android/de/cyberkatze/iroot/Utils.java" target-dir="src/de/cyberkatze/iroot"/>
 
-        <framework custom="true" src="src/android/build-extras.gradle" type="gradleReference"/>
+        <framework src="com.scottyab:rootbeer-lib:0.1.0"/>
     </platform>
 
 </plugin>
