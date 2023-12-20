@@ -1,4 +1,4 @@
-package de.cyberkatze.iroot;
+package tr.uyummobile.iroot;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
