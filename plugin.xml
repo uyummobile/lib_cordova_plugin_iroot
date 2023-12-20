@@ -37,7 +37,7 @@
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="IRoot">
-                <param name="android-package" value="de.cyberkatze.iroot.IRoot"/>
+                <param name="android-package" value="tr.uyummobile.iroot.IRoot"/>
                 <param name="onload" value="true"/>
             </feature>
         </config-file>
