@@ -1,4 +1,4 @@
-package de.cyberkatze.iroot;
+package tr.uyummobile.iroot;
 
 import java.util.Arrays;
 import java.util.List;
